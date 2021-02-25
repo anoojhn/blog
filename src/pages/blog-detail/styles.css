@@ -1,0 +1,60 @@
+.blog-detail-main-wrapper {
+    margin: 0px 130px 0px 130px;
+}
+.blog-detail-title-wrapper { 
+     font-size: xx-large;
+     font-weight: 750;
+     text-align: left;
+     font-family: fell, Georgia, Cambria, "Times New Roman", Times, serif;
+     font-style: normal;
+     color: rgba(41, 41, 41, 1);
+     font-weight: 400;
+     margin-bottom: 15px;
+}
+.blog-detail-description {
+    text-align: left;
+    font-weight: 400;
+    font-size: large;
+    line-height: 28px;
+    font-size: 22px;
+    margin-bottom: -0.42em;
+    font-style: normal;
+    color: rgba(117, 117, 117, 1);
+    letter-spacing: 0;
+    font-family: sohne, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-weight: 400;
+    margin: 0;
+    margin-bottom: 15px;
+
+}
+.blog-detail-date{
+    font-size: 14px;
+}
+.blog-detail-author-wrapper {
+    display: flex;
+    align-items: center;
+    margin-bottom: 50px;
+}
+.blog-detail-author-wrapper2 {
+    text-align: left;
+    font-size: small;
+    margin: 0;
+    padding: 0;
+    font-weight: inherit;
+    letter-spacing: inherit;
+    font-family: inherit;
+    border: inherit;
+    font-size: inherit;
+    color: inherit;
+    line-height: 20px;
+    margin-left: 15px;
+   
+}
+.blog-detail-content {
+    text-align: left;
+    margin-top: 35px;
+}
+
+.blog-detail-author-name {
+    margin-bottom: 10px;
+}
